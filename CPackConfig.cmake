@@ -1,4 +1,4 @@
 set(CPACK_DEBIAN_PACKAGE_NAME "lab06")
 set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Daria Zubova darazubova@mail.ru")
-include(CPack)
 set(CPACK_PACKAGE_VERSION ${PRINT_VERSION})
+include(CPack)
